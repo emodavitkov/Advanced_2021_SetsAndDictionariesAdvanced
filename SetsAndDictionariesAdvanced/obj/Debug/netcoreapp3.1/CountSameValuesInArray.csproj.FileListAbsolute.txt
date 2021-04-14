@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\CountSameValuesInArray.exe
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\CountSameValuesInArray.deps.json
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\CountSameValuesInArray.runtimeconfig.json
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\CountSameValuesInArray.dll
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\CountSameValuesInArray.pdb
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\CountSameValuesInArray.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\CountSameValuesInArray.dll
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\CountSameValuesInArray.pdb
+C:\Users\A474627\source\repos\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\CountSameValuesInArray.genruntimeconfig.cache
